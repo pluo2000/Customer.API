@@ -1,0 +1,13 @@
+C:\repos\dev\Moula.Customer.Service\bin\Release\Moula.Customer.Service.dll
+C:\repos\dev\Moula.Customer.Service\bin\Release\Moula.Customer.Service.pdb
+C:\repos\dev\Moula.Customer.Service\bin\Release\Moula.Customer.Data.dll
+C:\repos\dev\Moula.Customer.Service\bin\Release\Moula.Customer.Model.dll
+C:\repos\dev\Moula.Customer.Service\bin\Release\Newtonsoft.Json.dll
+C:\repos\dev\Moula.Customer.Service\bin\Release\Moula.Customer.Data.pdb
+C:\repos\dev\Moula.Customer.Service\bin\Release\Moula.Customer.Model.pdb
+C:\repos\dev\Moula.Customer.Service\bin\Release\Newtonsoft.Json.xml
+C:\repos\dev\Moula.Customer.Service\obj\Release\Moula.Customer.Service.csprojAssemblyReference.cache
+C:\repos\dev\Moula.Customer.Service\obj\Release\Moula.Customer.Service.csproj.CoreCompileInputs.cache
+C:\repos\dev\Moula.Customer.Service\obj\Release\Moula.Customer.Service.csproj.CopyComplete
+C:\repos\dev\Moula.Customer.Service\obj\Release\Moula.Customer.Service.dll
+C:\repos\dev\Moula.Customer.Service\obj\Release\Moula.Customer.Service.pdb

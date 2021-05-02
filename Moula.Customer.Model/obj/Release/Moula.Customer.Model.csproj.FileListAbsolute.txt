@@ -1,0 +1,6 @@
+C:\repos\dev\Moula.Customer.Model\bin\Release\Moula.Customer.Model.dll
+C:\repos\dev\Moula.Customer.Model\bin\Release\Moula.Customer.Model.pdb
+C:\repos\dev\Moula.Customer.Model\obj\Release\Moula.Customer.Model.csprojAssemblyReference.cache
+C:\repos\dev\Moula.Customer.Model\obj\Release\Moula.Customer.Model.csproj.CoreCompileInputs.cache
+C:\repos\dev\Moula.Customer.Model\obj\Release\Moula.Customer.Model.dll
+C:\repos\dev\Moula.Customer.Model\obj\Release\Moula.Customer.Model.pdb
